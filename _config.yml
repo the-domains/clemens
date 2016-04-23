@@ -1,29 +1,41 @@
-name: clemens
-favicon: null
-layout_spectrum: 0.2356937164440751
-typography_spectrum: 0.8465711632743478
 title: 'This is me!'
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.4212766
+favicon: null
+name: clemens
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.09361702
+  lightness: 0.3659574
+  saturation: 0.5829787
+  rhythmicContrast: 0.2129417
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.21305394358932972
-  lightness: 0.17468020203523338
-  saturation: 0.7560572030488402
-  rhythmicContrast: 0.21294170385226607
-purpose: []
+typography_spectrum: 0.7553192
