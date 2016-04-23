@@ -1,16 +1,16 @@
 title: 'This is me!'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 layout_spectrum: 1
 favicon: null
 name: clemens
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -28,7 +28,7 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 0.9297872
+  brandStrength: 0.5
   lightness: 0.3659574
   saturation: 0.5829787
   rhythmicContrast: 0.2129417
